@@ -1,0 +1,44 @@
+body {
+    @apply font-serif;
+  }
+  
+  /* Other styles */
+  .black-header {
+    @apply bg-yellow-500 text-white py-4 text-left;
+  }
+  
+  .black-header h1 {
+    @apply flex justify-center text-6xl font-bold ml-5;
+  }
+  
+  .login-container {
+    @apply  flex justify-center items-center h-screen font-bold;
+  }
+  
+  .login-form {
+    @apply bg-yellow-500 w-96 p-8 shadow-md text-center;
+  }
+  
+  .input-field {
+    @apply border border-gray-300 rounded px-3 py-2 mb-4 w-full;
+  }
+  
+  .login-button {
+    @apply bg-white text-black px-4 py-2 rounded w-full;
+  }
+  
+  .login-button:hover {
+    @apply bg-blue-900;
+  }
+  
+  .signup-link {
+    @apply mt-4 text-center;
+  }
+  
+  .signup-link a {
+    @apply text-gray-800 font-bold;
+  }
+  
+  .signup-link a:hover {
+    @apply underline;
+  }

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|c:\\users\\jovan\\desktop\\pugs\\backend app\\taxiapplication\\common\\dtos\\driverchangestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|solutionrelative:common\\dtos\\driverchangestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|c:\\users\\jovan\\desktop\\pugs\\backend app\\taxiapplication\\common\\interfaces\\itenantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|solutionrelative:common\\interfaces\\itenantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|c:\\users\\jovan\\desktop\\pugs\\backend app\\taxiapplication\\common\\interfaces\\idrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD7643B-4278-495A-8AB8-C5F76BB18E1E}|Common\\Common.csproj|solutionrelative:common\\interfaces\\idrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A18987-3696-407F-9974-68A5FD7E6421}|TaxiMain\\TaxiMain.csproj|c:\\users\\jovan\\desktop\\pugs\\backend app\\taxiapplication\\taximain\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A18987-3696-407F-9974-68A5FD7E6421}|TaxiMain\\TaxiMain.csproj|solutionrelative:taximain\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A18987-3696-407F-9974-68A5FD7E6421}|TaxiMain\\TaxiMain.csproj|c:\\users\\jovan\\desktop\\pugs\\backend app\\taxiapplication\\taximain\\taximain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A18987-3696-407F-9974-68A5FD7E6421}|TaxiMain\\TaxiMain.csproj|solutionrelative:taximain\\taximain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverChangeStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\DTOs\\DriverChangeStatusDTO.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\DriverChangeStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\DTOs\\DriverChangeStatusDTO.cs",
+              "RelativeToolTip": "Common\\DTOs\\DriverChangeStatusDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:24:44.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITenantsService.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\Interfaces\\ITenantsService.cs",
+              "RelativeDocumentMoniker": "Common\\Interfaces\\ITenantsService.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\Interfaces\\ITenantsService.cs",
+              "RelativeToolTip": "Common\\Interfaces\\ITenantsService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:24:26.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDrive.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\Interfaces\\IDrive.cs",
+              "RelativeDocumentMoniker": "Common\\Interfaces\\IDrive.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\Common\\Interfaces\\IDrive.cs",
+              "RelativeToolTip": "Common\\Interfaces\\IDrive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:24:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxiMain.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\TaxiMain\\TaxiMain.cs",
+              "RelativeDocumentMoniker": "TaxiMain\\TaxiMain.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\TaxiMain\\TaxiMain.cs",
+              "RelativeToolTip": "TaxiMain\\TaxiMain.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:09:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\TaxiMain\\Controllers\\TenantsController.cs",
+              "RelativeDocumentMoniker": "TaxiMain\\Controllers\\TenantsController.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\PUGS\\Backend App\\TaxiApplication\\TaxiMain\\Controllers\\TenantsController.cs",
+              "RelativeToolTip": "TaxiMain\\Controllers\\TenantsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:48:49.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
